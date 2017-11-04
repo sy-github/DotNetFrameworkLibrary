@@ -4,7 +4,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Threading;
 
-namespace ShiYing
+namespace ShiYing.Utility
 {
     /// <summary>
     /// TimeSpaneraction logic for UserControl1.xaml
